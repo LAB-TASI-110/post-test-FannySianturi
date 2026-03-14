@@ -1,0 +1,3 @@
+buatlah sebuah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta dengan bahasa c yg akan dikerjakan di VS Code,terdapat stok barang yg disimpani gudang, terdapayt pola penyimpanannya untuk memahami gimana kelompok barang dipisahkan. Kita diminta untuk mengimput jumlah total data (N), deret stoknya (stok1, stok2, stok3,...., stokN), dan kode kategori barang. terdapat deret stok yaitu 22 pcs dasi SD, 85pcs gula, 5pcs rok pramuka, 120 pcs minyak. kodenya di tentukan berdasarkan urutan stok barang.
+code unutk mengcommand
+cara mengterminalkan nya seperti apa
